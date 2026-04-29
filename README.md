@@ -1,7 +1,8 @@
 # HNG Internship — Backend Stage 3
 
-  **Live API:** https://hng-internship-ivory.vercel.app  
-  **Stage-3 Source:** backend/stage-2/  
+  **Live API:** https://hng-internship-ivory.vercel.app
+  **Portal:** https://stage-3-insighta-portal.vercel.app
+  **CLI:** `npm install -g insighta-labs-cli`
 
   ---
 
